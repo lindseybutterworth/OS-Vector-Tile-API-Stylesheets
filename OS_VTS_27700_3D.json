@@ -1579,7 +1579,7 @@
                 4
             ],
             "minzoom": 11,
-            "maxzoom": 30,
+            "maxzoom": 12,
             "layout": {},
             "paint": {
                 "fill-color": "#DCD7C6"
@@ -6273,10 +6273,8 @@
                     [ "zoom" ],
                     16,
                     [ "get", "RelHMax" ],
-                    16.05,
-                    [ "get", "RelHMax" ]
                 ],
-                "fill-extrusion-opacity": 0.7
+                "fill-extrusion-opacity": 10
             }
         },
         {
