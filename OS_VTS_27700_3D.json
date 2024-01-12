@@ -1342,7 +1342,7 @@
             "source": "esri",
             "source-layer": "Local_buildings",
             "minzoom": 8,
-            "maxzoom": 11,
+            "maxzoom": 30,
             "layout": {},
             "paint": {
                 "fill-color": "#DCD7C6"
